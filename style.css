@@ -1,0 +1,55 @@
+body {
+    /* background: hsl(193, 38%, 86%); */
+}
+
+.dark-background {
+    padding: 10% 5%;
+    height: 100vh;
+    background-color: hsl(218, 23%, 16%)
+}
+
+.advice-title {
+    color: hsl(150, 100%, 66%)
+}
+
+.advice-container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20%;
+    text-align: center;
+    padding: 2rem 1rem;
+    width: 80vw;
+    height: 65%;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    background-color: hsl(217, 19%, 24%);
+    color: hsl(150, 100%, 66%);
+    color: hsl(193, 38%, 86%)
+}
+
+.dice {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 70px;
+    height: 70px;
+    margin: auto;
+    padding: 2px;
+    /* padding-top: 8%; */
+    border-radius: 50%;
+    background-color: hsl(150, 100%, 66%)
+}
+
+.dice-svg {
+    /* background-color: red; */
+}
+
+.divider {
+    margin: auto;
+}
+
+.text {
+    margin-bottom: 20%;
+    font-size: 2.5rem;
+    font-weight: bold;
+    padding: 20px;
+}
