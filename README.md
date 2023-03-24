@@ -72,8 +72,7 @@ I linked the app to the advice generator api which produces a lot of advices to 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
+> [live demo](https://jerryowusu.github.io/advice-generator/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -167,7 +166,7 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Jerry Owusu**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
