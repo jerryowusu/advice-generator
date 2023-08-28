@@ -72,7 +72,7 @@ I linked the app to the advice generator api which produces a lot of advices to 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> [live demo](https://jerryowusu.github.io/advice-generator/)
+> Will update very soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
