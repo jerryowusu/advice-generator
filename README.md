@@ -27,7 +27,7 @@
 # advice-generator
 I linked the app to the advice generator api which produces a lot of advices to the interface upon refresh the page or clicking on the button 
 
-
+to be updated soon to include tailwind for design and rails for database
 
 **[your_project__name]** is a Advice generator
 
