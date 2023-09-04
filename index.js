@@ -4,8 +4,6 @@ async function getApi(url) {
     const response = await fetch(url);
 
     let data = await response.json();
-    console.log(data)
-
     if (response) {
         hideLoader();
     }
@@ -38,5 +36,4 @@ reloadButton.addEventListener('click', loadAdvice)
 
 function loadAdvice() {
     window.location.reload()
-    console.log('loading')
-}
+   }
