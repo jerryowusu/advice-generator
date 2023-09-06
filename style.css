@@ -1,7 +1,3 @@
-body {
-    /* background: hsl(193, 38%, 86%); */
-}
-
 .dark-background {
     padding: 10% 5%;
     height: 100vh;
@@ -34,13 +30,8 @@ body {
     height: 70px;
     margin: auto;
     padding: 2px;
-    /* padding-top: 8%; */
     border-radius: 50%;
     background-color: hsl(150, 100%, 66%)
-}
-
-.dice-svg {
-    /* background-color: red; */
 }
 
 .divider {
